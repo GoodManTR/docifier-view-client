@@ -1,0 +1,1 @@
+export const EXAM_API_URL = 'https://api.goodmanio.net'
